@@ -1,0 +1,400 @@
+climate
+global warming
+globalwarming
+global heating
+ilmasto
+klimat
+environmental protection
+ympäristönsuojelu
+miljöskydd
+emission
+päästö
+utsläpp
+methane
+metaani
+metan
+greenhouse gas
+ghg
+kasvihuonekaas
+växthusgas
+sustainable development
+kestävä kehit
+kestävän kehit
+kestävässä kehit
+hållbar utveckl
+energy breakthrough
+energy efficiency
+energy renovation
+energy saving
+energy conservation
+energiamurros
+energiatehokkuus
+energiaremontti
+energiansäästö
+energigenombrott
+energieffektivitet
+energirenovering
+energibesparing
+electrification
+sähköistyminen
+elektrifiering
+fossil fuel
+fossil energy
+fossil investment
+fossils
+fossiilisten polttoaine
+fossiilisijoitu
+fossilisen energia
+fossilt bränsle
+fossila bränsle
+fossilinveste
+fossilt energi
+coal
+carbon
+co2
+hiili
+hiile
+koldioxid
+natural gas
+biogas
+bio gas
+lng
+maakaasu
+biokaasu
+kaasuauto
+natur gas
+gasbil
+fuel
+combustion
+polttoaine
+polttomoottor
+bränsl
+förbränn
+drivmedel
+kerosene
+kerosiini
+kerosin
+cleantech
+clean tech
+puhdas tekno
+puhdas tekni
+puhdasta tekno
+puhdasta tekni
+puhtaan tekno
+puhtaan tekni
+ren tekno
+ren tekni
+capture and storage
+capture & storage
+hiilen talteenot
+hiilidioksidin talteenot
+päästöjen talteenot
+kolfångst
+renewables
+renewable energy
+renewable fuel
+uusiutuva polttoaine
+uusiutuvat polttoaine
+uusiutuvien polttoain
+uusiutuva energia
+uusiutuvat energia
+uusiutuvien energia
+förnybar energi
+förnybara energi
+intermittency
+säätövoima
+lauhdevoima
+intermittens
+justeringskraft
+solar power
+solar energy
+aurinkovoima
+aurinkosähkö
+aurinkoenergia
+kun paistaa
+kun ei paista
+solkraft
+solenergi
+wind power
+wind energy
+tuulivoima
+tuulisähkö
+tuulienergia
+kun tuulee
+kun ei tuule
+vindkraft
+vindenergi
+geotherm
+geotermin
+geotermis
+non-ets
+non ets
+taakanja
+bördfördeln
+heat pump
+lämpöpump
+värmepump
+nuclear power
+nuclear energy
+atom energy
+ydinvoima
+atomivoima
+atomienergia
+ydinjäte
+ydinreaktori
+kärnkraft
+kärnavfall
+kärnreaktor
+scrapping premium
+romutuspalkkio
+skrotningspremie
+flying
+aviation
+flightshame
+lentäminen
+lentämisen
+lentokoneiden
+ilmailu
+lentohäpeä
+flygskam
+forest fuel
+wood fuel
+woodfuel
+metsäenergia
+puuenergia
+puupolttoaine
+skogsenergi
+agricultural subsid
+farming subsid
+maataloustu
+hiiliviljely
+lantbrukssubventi
+jordbrukssubventi
+carbon sink
+carbon storage
+hiilinielu
+nettonielu
+päästönielu
+kolsänka
+kolsänkor
+harvest
+logging
+clearfell
+clearcut
+tree plantation
+forest industr
+avohakku
+hakkuut
+hakkuiden
+puuviljelmä
+plantaasi
+metsäteollisuu
+metsäsektori
+avverkn
+kalhygg
+skogsdrift
+skogssektorn
+wood constructi
+wooden constructi
+wooden element
+wooden frame
+wooden building
+wooden multi
+puuraken
+puutalo
+puuelement
+puukerrostalo
+träkonstrukti
+träbyggn
+träelement
+trävåningshus
+concrete constructi
+concrete element
+concrete frame
+concrete building
+betoniraken
+betonitalo
+betonielement
+betonikerrostalo
+betongkonstrukti
+betongbyggn
+betongelement
+betongvåningshus
+continuous cover
+jatkuvapeittei
+jatkuva kasvatu
+jatkuvan kasvatu
+kontinuerligt täck
+deforest
+palm oil
+oil palm
+metsäkato
+palmuöljy
+öljypalmu
+avskogning
+palmolja
+oljepalm
+sámi
+sáme
+sami people
+saami
+saamelai
+samerna
+samiska
+peat
+turve
+turpee
+torv
+hydro power
+hydropower
+hydro energy
+hydroenergy
+vesivoima
+vesienergia
+vattenkraft
+vattenenergi
+hydrogen
+vetytalous
+vetyenergia
+vetyvoima
+fotogen
+congestion
+liikenne
+liikentee
+ruuhkamaksu
+trängselskatt
+trängselavgift
+car fleet
+autokanta
+autokannan
+bilflotta
+emission decoupl
+päästöjen irtikytken
+kulutuksen irtikytken
+frikoppl
+cycling
+bicycle
+pyöräil
+polkupyörä
+cykling
+cykel
+electric vehicle
+electric car
+sähköauto
+elbil
+economic competitiv
+talouden kilpailuky
+taloudellinen kilpailuky
+taloudellista kilpailuky
+taloudellisessa kilpailuky
+kilpailukykyinen talous
+suomen kilpailuky
+konkurrenskraft
+economic growth
+endless growth
+continuous growth
+continued growth
+infinite growth
+creative destruct
+creativedestruct
+talouskasvu
+talouden kasvu
+taloudellinen kasvu
+taloudellisen kasvu
+jatkuva kasvu
+jatkuvan kasvu
+luova tuho
+luovatuho
+ekonomisk tillväxt
+kontinuerligt tillväxt
+kreativ förstörelse
+kreativförstörelse
+bioeconom
+green econom
+circular econom
+green growth
+greengrowth
+sustainable growth
+sustainablegrowth
+biotalou
+vihreä talou
+kiertotalou
+vihreä kasvu
+vihreäkasvu
+kestävä kasvu
+kestävän kasvu
+kestäväkasvu
+bioekonom
+grön ekonom
+cirkulär ekonom
+grön tillväxt
+gröntillväxt
+hållbar tillväxt
+hållbartillväxt
+market-based solution
+markkinapohjaiset ratkaisu
+markkinapohjainen ratkaisu
+marknadsbaserad lösning
+settlement struct
+asutusrakenne
+yhdyskuntaraken
+bosättningsstrukt
+bebyggelsestrukt
+samhällsstrukt
+harmful subsid
+haitalliset tuet
+haitalliset tuki
+haitallisten tuki
+skadliga stöd
+population growth
+väestönkasvu
+väestö lisäänty
+väestön lisäänty
+befolkningstillväxt
+coal tax
+carbon tax
+flight tax
+meat tax
+car tax
+energy tax
+hiilivero
+lentovero
+lihavero
+autovero
+energiavero
+kolskatt
+flygskatt
+köttskatt
+bilskatt
+energiskatt
+adjustment fund
+just transition
+fair transition
+sopeutumisrahasto
+reilu siirtymä
+reilun siirtymä
+anpassningsfonden
+rättvis övergång
+nytonpakko
+elokapina
+fennovoima
+olkiluoto
+onkalo
+greta
+thunberg
+taalas
+taalaksen
+datteln
+uniper
+cap-and-trade
+cap and trade
+capandtrade
+cap-n-trade
+cap n trade
+capntrade
+power-to-x
+power to x
+powertox
+lulucf
+redd
+beccs

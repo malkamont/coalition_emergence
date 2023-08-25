@@ -1,0 +1,114 @@
+actor;name;type;roster2014;roster2020;mstrat2014;mstrat2020
+FI001;Aalto University;university;yes;yes;1;0
+FI002;ABB;corporate_private;yes;yes;0;0
+FI003;Confederation of Unions for Professional and Managerial Staff;trade_union;yes;yes;0;0
+FI004;Automobile and Touring Club of Finland;interest_group;yes;yes;0;0
+FI005;Cleantech Finland;interest_group;yes;no;0;0
+FI006;Demos Helsinki;research_institute;yes;yes;0;0
+FI007;Dodo;non_governmental;yes;yes;0;0
+FI008;Confederation of Finnish Industries;interest_group;yes;yes;0;1
+FI009;ETLA Economic Research;research_institute;yes;yes;0;0
+FI010;Finnish Energy;interest_group;yes;yes;1;1
+FI011;Energy Authority;government_agency;yes;yes;1;1
+FI012;Fennovoima;corporate_private;yes;yes;0;0
+FI013;Bioenergy Association of Finland;interest_group;yes;yes;1;1
+FI014;Finnair;corporate_public;yes;yes;0;0
+FI015;Fortum;corporate_public;yes;yes;1;1
+FI016;Greenpeace Finland;non_governmental;yes;yes;1;1
+FI017;Helsinki Energy;corporate_public;yes;yes;1;1
+FI018;University of Helsinki;university;yes;yes;0;0
+FI019;Climate Forum Finland;non_governmental;yes;yes;0;0
+FI020;Finnish Climate Panel;research_institute;yes;yes;0;0
+FI021;Finnish Meteorological Institute;research_institute;yes;yes;1;1
+FI022;University of Eastern Finland;university;yes;yes;1;1
+FI023;National Coalition Party;political_party;yes;yes;1;1
+FI024;Finnish NGDO Platform to the European Union;non_governmental;yes;no;0;0
+FI025;Chemical Industry Federation of Finland;interest_group;yes;yes;0;1
+FI026;Finnish Development NGOs;non_governmental;yes;yes;1;1
+FI027;Centre Party;political_party;yes;yes;1;1
+FI028;Finn Church Aid;non_governmental;yes;no;0;0
+FI029;Christian Democrats;political_party;yes;yes;0;0
+FI030;Association of Finnish Municipalities;interest_group;yes;yes;0;0
+FI031;Heating Energy Association;interest_group;yes;yes;1;1
+FI032;Lappeenranta-Lahti University of Technology;university;yes;yes;1;1
+FI033;Ministry of Transport and Communications;government_ministry;yes;yes;1;1
+FI034;Finnish Organic Association;interest_group;yes;yes;0;0
+FI035;Finnish Nature League;non_governmental;yes;yes;0;0
+FI036;Agrifood Research Finland;research_institute;yes;no;0;0
+FI037;Ministry of Agriculture and Forestry;government_ministry;yes;yes;0;0
+FI038;Central Union of Agricultural Producers and Forest Owners;interest_group;yes;yes;1;1
+FI039;Friends of the Earth Finland;non_governmental;yes;yes;1;1
+FI040;Industrial Union;trade_union;yes;yes;0;0
+FI041;Metsa Group;corporate_private;yes;yes;1;1
+FI042;Finnish Forest Research Institute;research_institute;yes;no;0;0
+FI043;Finnish Forest Industries Federation;interest_group;yes;yes;0;1
+FI044;Neles;corporate_private;yes;no;0;0
+FI045;Motiva;corporate_public;yes;yes;1;1
+FI046;Finnish Society for Nature and Environment;non_governmental;yes;no;0;0
+FI047;NCC;corporate_private;yes;yes;1;1
+FI048;Neste;corporate_private;yes;yes;1;1
+FI049;Finnish Petroleum and Biofuels Association;interest_group;yes;no;0;0
+FI050;Outokumpu;corporate_private;yes;yes;0;0
+FI051;Metso Outotec;corporate_private;yes;yes;1;1
+FI052;Pellervo Economic Research;research_institute;yes;yes;0;0
+FI053;Finns Party;political_party;yes;yes;0;0
+FI054;ELY Centre for Pirkanmaa;government_agency;yes;yes;1;1
+FI055;AFRY;corporate_private;yes;yes;0;0
+FI056;Confederation of Finnish Construction Industries;interest_group;yes;yes;0;1
+FI057;SSAB;corporate_private;yes;yes;1;1
+FI058;Party of Swedish People of Finland;political_party;yes;yes;1;1
+FI059;Siemenpuu Foundation;non_governmental;yes;yes;0;0
+FI060;Skanska;corporate_private;yes;yes;1;1
+FI061;Social Democratic Party;political_party;yes;yes;0;0
+FI062;ST1;corporate_private;yes;yes;0;0
+FI063;Stora Enso;corporate_private;yes;yes;0;0
+FI064;Central Organisation of Finnish Trade Unions;trade_union;yes;yes;0;0
+FI065;Finnish Innovation Fund Sitra;research_institute;yes;yes;1;1
+FI066;Finnish Clean Energy Association;interest_group;yes;yes;0;0
+FI067;Finnish Association for Nature Conservation;non_governmental;yes;yes;1;1
+FI068;Finnish Wind Power Association;interest_group;yes;yes;1;1
+FI069;UN Association of Finland;non_governmental;yes;no;0;0
+FI070;Finnish Environment Institute;research_institute;yes;yes;0;0
+FI071;Federation of Finnish Enterprises;interest_group;yes;yes;0;0
+FI072;Tampere University;university;yes;yes;0;0
+FI073;Finnish Funding Agency for Technology and Innovation;government_agency;yes;no;0;0
+FI074;Technology Industries of Finland;interest_group;yes;yes;1;1
+FI075;TVO;corporate_private;yes;yes;1;1
+FI076;Statistics Finland;government_agency;yes;yes;1;1
+FI077;Finnish Confederation of Professionals;trade_union;yes;yes;1;1
+FI078;University of Turku;university;yes;yes;1;1
+FI079;Ministry of Economic Affairs and Employment;government_ministry;yes;yes;0;0
+FI080;Ministry for Foreign Affairs;government_ministry;yes;yes;1;1
+FI081;Finnish Institute of International Affairs;research_institute;yes;yes;1;1
+FI082;UPM;corporate_private;yes;yes;0;0
+FI083;ELY Centre for Uusimaa;government_agency;yes;yes;0;0
+FI084;Valmet;corporate_private;yes;yes;0;0
+FI085;VATT Institute for Economic Research;research_institute;yes;yes;0;0
+FI086;Office of the Prime Minister of Finland;government_ministry;yes;yes;0;0
+FI087;Ministry of Finance;government_ministry;yes;yes;0;0
+FI088;Neova;corporate_public;yes;yes;1;1
+FI089;ELY Centre for Southwest Finland;government_agency;yes;yes;1;1
+FI090;Left Alliance;political_party;yes;yes;1;1
+FI091;Green League;political_party;yes;yes;1;1
+FI092;VR;corporate_public;yes;yes;0;0
+FI093;VTT Technical Research Centre of Finland;research_institute;yes;yes;1;1
+FI094;Wartsila;corporate_private;yes;yes;0;0
+FI095;WWF Finland;non_governmental;yes;yes;1;1
+FI096;Ministry of the Environment;government_ministry;yes;yes;1;1
+FI126;BIOS;research_institute;no;yes;0;0
+FI127;Climate Leadership Coalition;non_governmental;no;yes;0;0
+FI128;Ecomodernist Society of Finland;non_governmental;no;yes;0;0
+FI129;XR Finland;non_governmental;no;yes;0;1
+FI130;Finance Finland;interest_group;no;yes;0;1
+FI131;FridaysForFuture Finland;non_governmental;no;yes;0;1
+FI132;Gasum;corporate_public;no;yes;0;1
+FI133;City of Helsinki;city;no;yes;0;1
+FI134;Coal-free Finland;non_governmental;no;yes;0;0
+FI135;Towards Carbon Neutral Municipalities;government_agency;no;yes;0;1
+FI136;Finnish Chambers of Commerce;interest_group;no;yes;0;1
+FI137;Natural Resources Institute Finland;research_institute;no;yes;0;0
+FI138;Union of Finnish Paper Workers;trade_union;no;yes;0;0
+FI139;Saami Parliament of Finland;non_governmental;no;yes;0;0
+FI140;City of Tampere;city;no;yes;0;1
+FI141;City of Turku;city;no;yes;0;1
+FI142;Business Finland;government_agency;no;yes;0;0
